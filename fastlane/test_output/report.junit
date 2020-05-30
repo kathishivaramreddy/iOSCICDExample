@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='ExampleAppForCICdTests.xctest' tests='2' failures='0'>
+  <testsuite name='ExampleAppForCICdTests.ExampleAppForCICdTests' tests='2' failures='0'>
+    <testcase classname='ExampleAppForCICdTests.ExampleAppForCICdTests' name='testExample' time='0.001'/>
+    <testcase classname='ExampleAppForCICdTests.ExampleAppForCICdTests' name='testPerformanceExample' time='0.919'/>
+  </testsuite>
+</testsuites>

@@ -1,6 +1,7 @@
 # environment setup
 language: swift
 osx_image: xcode11.2
+xcode_project: ExampleAppForCICd.xcodeproj
 
 # caching of dependencies
 cache:

@@ -3,7 +3,7 @@ setup_travis
 default_platform(:ios)
 
 platform :ios do
-  desc 'Runs the unit tests in ExampleAppForCICd'
+  desc 'Runs the unit tests in ExampleAppForCICdTests'
   lane :unit_test do
     scan(scheme: "ExampleAppForCICdTests")
   end
