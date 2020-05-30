@@ -32,7 +32,3 @@ jobs:
       name: "Unit tests"
       script:
         - bundle exec fastlane unit_test
-    - stage: "Test"
-      name: "UI tests"
-      script:
-        - bundle exec fastlane ui_test
